@@ -1,12 +1,13 @@
 ![Charles VAN GOETHEM](https://raw.githubusercontent.com/Char-Al/char-al/master/char-al-header.png)
+*Image by [gagnonm1993](https://pixabay.com/users/gagnonm1993-4710127)*
 
 ## Info
 
 Hi there, I'm Charles a bioinformatics engineer.
 
-- :computer: I'm currently working : MobiDL 2
+- :computer: I'm currently working for ![MoBiDiC](https://avatars2.githubusercontent.com/u/28737558?s=50)
 - :school: I'm currently learning : flask
-- :dart: I already made a Robin Hood in darts (twice)
+- :dart: Fun fact : I already made a Robin Hood in darts (twice)
 
 ## Where to find me
 
@@ -38,6 +39,7 @@ Hi there, I'm Charles a bioinformatics engineer.
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=Git&style=for-the-badge&logoColor=white)
 ![Github](https://img.shields.io/badge/-Github-181717?logo=Github&style=for-the-badge&logoColor=white)
 ![Overleaf](https://img.shields.io/badge/-Overleaf-47A141?logo=Overleaf&style=for-the-badge&logoColor=white)
+![Vercel](https://img.shields.io/badge/-vercel-000000?logo=Vercel&style=for-the-badge&logoColor=white)
 
 ![Django](https://img.shields.io/badge/-Django-092E20?logo=Django&style=for-the-badge&logoColor=white)
 ![flask](https://img.shields.io/badge/-flask-000000?logo=Flask&style=for-the-badge&logoColor=white)
