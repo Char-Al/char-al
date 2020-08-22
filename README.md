@@ -1,4 +1,4 @@
-![Charles VAN GOETHEM](char-al-header.png)
+![Charles VAN GOETHEM](https://raw.githubusercontent.com/Char-Al/char-al/master/char-al-header.png)
 
 ## Info
 
