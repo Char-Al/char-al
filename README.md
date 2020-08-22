@@ -1,4 +1,4 @@
-![Charles VAN GOETHEM](profile.png)
+![Charles VAN GOETHEM](char-al-header.png)
 
 ## Info
 
