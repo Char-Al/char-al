@@ -6,7 +6,7 @@
 Hi there, I'm Charles a bioinformatics engineer.
 
 - :computer: I'm currently working for [:whale: MoBiDiC](https://github.com/mobidic)
-- :school: I'm currently learning : flask
+- :school: I'm currently learning : flask, streamlit
 - :dart: Fun fact : I already made a Robin Hood in darts (twice)
 
 ## Where to find me
