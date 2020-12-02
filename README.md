@@ -1,5 +1,4 @@
-![Charles VAN GOETHEM](https://raw.githubusercontent.com/Char-Al/char-al/master/char-al-header.png)
-*Image by [gagnonm1993](https://pixabay.com/users/gagnonm1993-4710127)*
+![Charles VAN GOETHEM](https://raw.githubusercontent.com/Char-Al/char-al/master/puzzle.jpg)
 
 ## Info
 
