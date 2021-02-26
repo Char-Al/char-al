@@ -49,12 +49,12 @@ Hi there, I'm Charles a bioinformatics engineer.
 
 ## Stats
 
-![stats](https://github-readme-stats.char-al.vercel.app/api?username=char-al&show_icons=true&count_private=true&theme=tokyonight)
+![stats](https://github-readme-stats.vercel.app/api?username=char-al&show_icons=true&count_private=true&title_color=f7d745&text_color=b2d76c&icon_color=6562af&bg_color=00000000&hide=bg-color&hide_border=true)
 
-![mpa](https://github-readme-stats.char-al.vercel.app/api/pin/?username=mobidic&repo=mpa&theme=tokyonight&show_owner=true)
-![mobidl](https://github-readme-stats.char-al.vercel.app/api/pin/?username=mobidic&repo=mobidl&theme=tokyonight&show_owner=true)
+![mpa](https://github-readme-stats.vercel.app/api/pin/?username=mobidic&repo=mpa&show_owner=true&title_color=f7d745&text_color=b2d76c&icon_color=6562af&bg_color=00000000&hide=bg-color&hide_border=true)
+![mobidl](https://github-readme-stats.vercel.app/api/pin/?username=mobidic&repo=mobidl&show_owner=true&title_color=f7d745&text_color=b2d76c&icon_color=6562af&bg_color=00000000&hide=bg-color&hide_border=true)
 
-![miams](https://github-readme-stats.char-al.vercel.app/api/pin/?username=bialimed&repo=miams&theme=tokyonight&show_owner=true)
+![miams](https://github-readme-stats.vercel.app/api/pin/?username=bialimed&repo=miams&show_owner=true&title_color=f7d745&text_color=b2d76c&icon_color=6562af&bg_color=00000000&hide=bg-color&hide_border=true)
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=char-Al&theme=juicyfresh&no-bg=true&no-frame=true&column=7&")
 
