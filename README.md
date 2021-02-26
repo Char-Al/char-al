@@ -56,7 +56,7 @@ Hi there, I'm Charles a bioinformatics engineer.
 
 ![miams](https://github-readme-stats.char-al.vercel.app/api/pin/?username=bialimed&repo=miams&theme=tokyonight&show_owner=true)
 
-![trophy](https://github-profile-trophy.vercel.app/?username=char-Al&column=7&theme=onedark&no-frame=true")
+![trophy](https://github-profile-trophy.vercel.app/?username=char-Al&theme=juicyfresh&no-bg=true&no-frame=true&column=7&")
 
 
 <!-- Image by <a href="https://pixabay.com/users/gagnonm1993-4710127/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=2358911">gagnonm1993</a> from <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=2358911">Pixabay</a> -->
