@@ -53,13 +53,14 @@ Hi there, I'm Charles a bioinformatics engineer.
 ## Stats
 
 ![stats](https://github-readme-stats.vercel.app/api?username=char-al&show_icons=true&count_private=true&title_color=f7d745&text_color=b2d76c&icon_color=6562af&bg_color=00000000&hide=bg-color&hide_border=true)
+![trophy](https://github-profile-trophy.vercel.app/?username=char-Al&theme=juicyfresh&no-bg=true&no-frame=true&column=4&")
 
 ![mpa](https://github-readme-stats.vercel.app/api/pin/?username=mobidic&repo=mpa&show_owner=true&title_color=f7d745&text_color=b2d76c&icon_color=6562af&bg_color=00000000&hide=bg-color&hide_border=true)
-![mobidl](https://github-readme-stats.vercel.app/api/pin/?username=mobidic&repo=mobidl&show_owner=true&title_color=f7d745&text_color=b2d76c&icon_color=6562af&bg_color=00000000&hide=bg-color&hide_border=true)
-
 ![miams](https://github-readme-stats.vercel.app/api/pin/?username=bialimed&repo=miams&show_owner=true&title_color=f7d745&text_color=b2d76c&icon_color=6562af&bg_color=00000000&hide=bg-color&hide_border=true)
 
-![trophy](https://github-profile-trophy.vercel.app/?username=char-Al&theme=juicyfresh&no-bg=true&no-frame=true&column=8&")
+![mobidl](https://github-readme-stats.vercel.app/api/pin/?username=mobidic&repo=mobidl&show_owner=true&title_color=f7d745&text_color=b2d76c&icon_color=6562af&bg_color=00000000&hide=bg-color&hide_border=true)
+![mobidlTasks](https://github-readme-stats.vercel.app/api/pin/?username=mobidl&repo=tasks&show_owner=true&title_color=f7d745&text_color=b2d76c&icon_color=6562af&bg_color=00000000&hide=bg-color&hide_border=true)
+
 
 
 <!-- Image by <a href="https://pixabay.com/users/gagnonm1993-4710127/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=2358911">gagnonm1993</a> from <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=2358911">Pixabay</a> -->
