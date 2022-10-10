@@ -8,9 +8,6 @@ Hi there, I'm Charles a bioinformatics engineer.
 - :school: I'm currently learning : flask, streamlit
 - :dart: Fun fact : I already made a Robin Hood in darts (twice)
 
-[![Twitter](https://github-readme-twitter.gazf.vercel.app/api?id=char_al_&layout=wide)](https://twitter.com/Char_Al_)
-[![TwitterMobidic](https://github-readme-twitter.gazf.vercel.app/api?id=MoBiDiC_BioInfo&layout=wide)](https://twitter.com/MoBiDiC_BioInfo)
-
 </details>
 
 
@@ -21,6 +18,9 @@ Hi there, I'm Charles a bioinformatics engineer.
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/charles-van-goethem/)
 [![ResearchGate](https://img.shields.io/badge/-ResearchGate-00CCBB?style=for-the-badge&logo=ResearchGate&logoColor=white)](https://www.researchgate.net/profile/Charles_Van_Goethem)
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/Char_Al_)
+
+[![Twitter](https://github-readme-twitter.gazf.vercel.app/api?id=char_al_&layout=wide)](https://twitter.com/Char_Al_)
+[![TwitterMobidic](https://github-readme-twitter.gazf.vercel.app/api?id=MoBiDiC_BioInfo&layout=wide)](https://twitter.com/MoBiDiC_BioInfo)
 
 </details>
 
@@ -77,15 +77,10 @@ Hi there, I'm Charles a bioinformatics engineer.
 <details>
   <summary><b>Stats</b></summary>
 
-![stats](https://github-readme-stats.vercel.app/api?username=char-al&show_icons=true&count_private=true&title_color=f7d745&text_color=b2d76c&icon_color=6562af&bg_color=00000000&hide=bg-color&hide_border=true)
-![trophy](https://github-profile-trophy.vercel.app/?username=char-Al&theme=juicyfresh&no-bg=true&no-frame=true&column=4&")
+![stats](https://github-readme-stats.vercel.app/api?username=char-al&title_color=3498db&text_color=2ecc71&icon_color=3498db&bg_color=00000000&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true)
+![trophy](https://github-profile-trophy.vercel.app/?username=char-Al&no-bg=true&no-frame=true&column=4&theme=algolia)
 
-![mpa](https://github-readme-stats.vercel.app/api/pin/?username=mobidic&repo=mpa&show_owner=true&title_color=f7d745&text_color=b2d76c&icon_color=6562af&bg_color=00000000&hide=bg-color&hide_border=true)
-![miams](https://github-readme-stats.vercel.app/api/pin/?username=bialimed&repo=miams&show_owner=true&title_color=f7d745&text_color=b2d76c&icon_color=6562af&bg_color=00000000&hide=bg-color&hide_border=true)
-
-![mobidl](https://github-readme-stats.vercel.app/api/pin/?username=mobidic&repo=mobidl&show_owner=true&title_color=f7d745&text_color=b2d76c&icon_color=6562af&bg_color=00000000&hide=bg-color&hide_border=true)
-![mobidlTasks](https://github-readme-stats.vercel.app/api/pin/?username=mobidl&repo=tasks&show_owner=true&title_color=f7d745&text_color=b2d76c&icon_color=6562af&bg_color=00000000&hide=bg-color&hide_border=true)
-
+![graph](https://activity-graph.herokuapp.com/graph?username=char-al&bg_color=0000000&color=2980b9&line=2980b9&point=27ae60&area_color=2980b9&area=true&hide_border=true)
 </details>
 
 <!-- Image by <a href="https://pixabay.com/users/gagnonm1993-4710127/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=2358911">gagnonm1993</a> from <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=2358911">Pixabay</a> -->
