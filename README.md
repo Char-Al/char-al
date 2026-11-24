@@ -8,6 +8,7 @@ Hi there, I'm Charles a bioinformatics engineer.
 - :computer: I'm currently working for :whale: [MoBiDiC](https://github.com/mobidic) at :hospital: [CHU Montpellier](https://www.chu-montpellier.fr/en/)
 - :keyboard: I'm currently developping [MobiDL2.0](https://github.com/MobiDL) and principal maintainer of [SEAL](https://github.com/mobidic/SEAL)
 - :dart: Fun fact : I already made a Robin Hood in darts (twice)
+- :olive: I’m currently developing [OliveMap](https://char-al.github.io/olivemap/) using vibe-coding (with :cat: [mistral](https://mistral.ai/)), just for fun as a side project.
 
 ### Where to find me
 
